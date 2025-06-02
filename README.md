@@ -10,9 +10,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mohammadassaf552@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-assaf-900" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 
 > I’m always open to collaboration, contributions, or just a friendly tech chat.
 
-Feel free to reach out via [Email](mailto:your.email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile)
+Feel free to reach out via [Email](mohammadassaf552@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/mohammad-assaf-900)
 
 ---
 
