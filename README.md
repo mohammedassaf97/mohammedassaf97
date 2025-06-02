@@ -1,61 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohammad+Assaf+👋;Software+Developer+%7C+.NET+Engineer;4%2B+Years+Experience+in+Building+Software" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Mohammad Assaf</h1>
+<h3 align="center">Software Developer | .NET Engineer | Full-Stack Enthusiast</h3>
+
+<p align="center">
+🚀 4+ years of experience building scalable, secure, and maintainable software using the <b>.NET ecosystem</b> and modern frontend tools.
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a passionate and detail-oriented **Software Developer** with over **4 years of experience** building reliable, scalable, and secure applications using the **.NET ecosystem** and modern frontend tools.
+I'm a passionate and detail-oriented **Software Developer** with a strong foundation in backend systems, web APIs, and UI design principles.
 
-- 🔭 I’m currently working on enterprise-level SaaS platforms  
-- 🧠 I love solving real-world problems using clean and maintainable code  
-- 🌱 Always learning and experimenting with new technologies  
-- 🤝 Open to collaboration on interesting projects
+- 💼 Working on **enterprise-level SaaS platforms**
+- 🧠 Love solving real-world problems using clean and maintainable code
+- 🌱 Continuously learning new technologies and tools
+- 🤝 Open to freelance, collaboration, or part-time remote projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,js,jquery,html,css,bootstrap,sqlserver,git,docker,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,js,jquery,html,css,bootstrap,git,docker,visualstudio" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedassaf97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedassaf97&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadassaf&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadassaf&layout=compact&theme=github_dark&hide_border=true" width="47%" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🧭 Currently Exploring
 
-- ⚙️ **Cloud & DevOps:** Azure fundamentals and CI/CD  
-- 🔒 **Security Best Practices:** Secure APIs and Identity Management  
-- 🌐 **Frontend UX:** Working with Next.js and clean UI patterns
-
----
-
-## 📬 Get In Touch
-
-If you're looking for a developer to build scalable software, contribute to your team, or just chat about tech — feel free to connect.
+- ☁️ Azure Cloud & DevOps fundamentals  
+- 🧩 Blazor WebAssembly & SignalR  
+- 🔐 IdentityServer & secure API design  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadassaf97&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadassaf&style=flat-square&color=blue" alt="Profile views" />
 </p>
