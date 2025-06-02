@@ -20,8 +20,32 @@ I'm a passionate and detail-oriented **Software Developer** with a strong founda
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,js,jquery,html,css,bootstrap,git,docker,visualstudio" />
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,js,ts,html,css,sass,jquery" />
+</p>
+
+### 🧰 Tools & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,blazor,react,redux,webpack" />
+</p>
+
+### 🗄️ Databases & Query
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,mongodb" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions" />
+</p>
+
+### 🧪 Testing & Patterns
+<p>
+  <img src="https://img.shields.io/badge/xUnit-%232C3E50.svg?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Moq-Red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean Architecture-%234B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge" />
 </p>
 
 ---
