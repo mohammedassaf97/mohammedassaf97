@@ -4,8 +4,8 @@
 
 ### 📅 Explore My Activities on Various Platforms
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/mohammad-assaf-900"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:mohammadassaf552@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://dev.to/mohammedassaf97"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ### 🛠️ My Technical Skills and Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,asp,js,html,css,bootstrap,jquery,sql,docker,postman,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,js,html,css,bootstrap,jquery,sql,database,postman,visualstudio" />
 </p>
 
 ---
