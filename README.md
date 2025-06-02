@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=chrome" height="40" /></a>
   <a href="https://dev.to/mohammedassaf97"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
 </p>
 
